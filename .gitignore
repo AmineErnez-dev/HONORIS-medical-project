@@ -1,0 +1,11 @@
+node_modules/
+dist/
+.vscode/
+.DS_Store
+__pycache__/
+*.pyc
+Projet medical/node_modules/
+Projet medical/dist/
+Projet medical/medical-ai-project/dataset/
+Projet medical/medical-ai-project/results/*.png
+.env
